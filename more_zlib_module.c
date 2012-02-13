@@ -69,7 +69,6 @@ python_inflateSetDictionary(PyObject *self, PyObject *args) {
             PyErr_SetString(PyExc_Exception, "unknown zlib error");
             return NULL;
     }
-    puts("seven");
 }
 
 
