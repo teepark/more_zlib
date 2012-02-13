@@ -1,0 +1,7 @@
+A C-extension providing additional zlib functionality to python.
+
+Originally written to expose {in,de}flateSetDictionary (and so far
+those are still the only things here).
+
+distributed with zlib. everything in the zlib/ directory is from that
+project and was not written by me.
